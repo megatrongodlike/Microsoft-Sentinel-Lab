@@ -12,7 +12,8 @@ This GitHub repository contains a PowerShell script designed to analyze Windows 
 
 In the accompanying YouTube demonstration, I showcase the setup of Azure Sentinel (SIEM) connected to a live virtual machine acting as a honeypot. We monitor real-time RDP brute force attacks from across the globe and use a custom PowerShell script to pinpoint the attackers' geographical details, visualizing them on an Azure Sentinel Map.
 
-![RDP Failures Geolocation Tracking](https://imgur.com/a/L2Hd7Zn)
+[RDP Failures Geolocation Tracking](https://github.com/megatrongodlike/Microsoft-Sentinel-Lab/assets/80381464/20012d5f-3210-4fea-aeb3-ec73e96685d0)
+
 
 ## Querying Logs with Sentinel in log analytical workspace 
 
@@ -44,9 +45,11 @@ Make sure to replace "FAILED_RDP_WITH_GEO_CL" with the actual name of the log or
 ## External Services
 
 - **ipgeolocation.io:** Utilized for IP Address to Geolocation mapping.
-![ipgeolocation]<blockquote class="imgur-embed-pub" lang="en" data-id="a/QPIM7Uj" data-context="false" ><a href="//imgur.com/a/QPIM7Uj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![ipgeolocation](https://github.com/megatrongodlike/Microsoft-Sentinel-Lab/assets/80381464/b758753a-cca1-4b48-90f4-bde9085d0c9e)
 
 
-### Worldwide Attack Map After 24 Hours
 
-![Worldwide Attack Map](https://imgur.com/a/weSpAK8)
+### Worldwide Attack Map After 5 Hours
+
+![Worldwide Attack](https://github.com/megatrongodlike/Microsoft-Sentinel-Lab/assets/80381464/e9a23b8a-5435-418a-843e-d513de0a2002)
+

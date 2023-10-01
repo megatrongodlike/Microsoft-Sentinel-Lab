@@ -18,6 +18,8 @@ In the accompanying YouTube demonstration, I showcase the setup of Azure Sentine
 ## Querying Logs with Sentinel in log analytical workspace 
 
 To effectively analyze RDP failure logs from Windows Event Viewer, you can use the following PowerShell command as an example. This command uses the Kusto Query Language (KQL) to extract and summarize relevant information:
+![FAILED RDP QUERIES](https://github.com/megatrongodlike/Microsoft-Sentinel-Lab/assets/80381464/4ca27a79-6ad3-421e-a350-b731bb0530a9)
+
 
 FAILED_RDP_WITH_GEO_CL
 |extend username = extract(@"username:([^,]+)", 1, RawData),

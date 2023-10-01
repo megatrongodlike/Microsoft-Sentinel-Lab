@@ -44,7 +44,7 @@ Make sure to replace "FAILED_RDP_WITH_GEO_CL" with the actual name of the log or
 ## External Services
 
 - **ipgeolocation.io:** Utilized for IP Address to Geolocation mapping.
-![ipgeolocation](https://imgur.com/a/QPIM7Uj)
+![ipgeolocation](<blockquote class="imgur-embed-pub" lang="en" data-id="a/QPIM7Uj" data-context="false" ><a href="//imgur.com/a/QPIM7Uj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 
 ### Worldwide Attack Map After 24 Hours

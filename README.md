@@ -1,6 +1,6 @@
 # Microsoft-Sentinel-Lab
 
-## "Setting Up SIEM and Honeypot: Strengthening Security in Azure"
+# "Setting Up SIEM and Honeypot: Strengthening Security in Azure"
 
 ## Setting Up a Windows VM Honeypot in Azure with Azure Sentinel
 

@@ -42,9 +42,6 @@ Make sure to replace "FAILED_RDP_WITH_GEO_CL" with the actual name of the log or
 - **ipgeolocation.io:** Utilized for IP Address to Geolocation mapping.
 ![ipgeolocation](https://imgur.com/a/QPIM7Uj)
 
-### Visualizing Attacks from Different Regions
-
-![Attack Dataflow](https://i.imgur.com/2MViSiL.jpg)
 
 ### Worldwide Attack Map After 24 Hours
 
